@@ -8,11 +8,10 @@
 
 3. Инструкция по сборке и запуску.
 Прежде чем начать, убедитесь, что на вашем компьютере установлены:
-Python 3.6+
-pip (менеджер пакетов Python)
+- Python 3.6+
+- pip (менеджер пакетов Python)
 Используйте pip для установки необходимых библиотек:
-bash
-pip install requests beautifulsoup4 pandas lxml
+- bash pip install requests, beautifulsoup4, pandas, lxml.
 
 4. Запуск скрипта.
 - Сохраните код скрипта (например, как books_scraper.py).
